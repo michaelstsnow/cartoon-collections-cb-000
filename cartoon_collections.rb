@@ -21,4 +21,5 @@ end
 def find_the_cheese(input)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
+  i=0;
 end
