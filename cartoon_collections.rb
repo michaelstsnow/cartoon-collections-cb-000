@@ -27,4 +27,5 @@ def find_the_cheese(input)
     else
     end
   end
+  return nil
 end
