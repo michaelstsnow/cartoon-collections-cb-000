@@ -15,7 +15,7 @@ def summon_captain_planet(collection)
 end
 
 def long_planeteer_calls(collection)
-  # Your code here
+  collection.any? { |item|  }
 end
 
 def find_the_cheese# code an argument here
