@@ -14,7 +14,7 @@ def summon_captain_planet(collection)
   final_collection
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(collection)
   # Your code here
 end
 
