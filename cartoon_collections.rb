@@ -7,7 +7,11 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet(collection)
-  # Your code here
+  i=1;
+  dwarves.each do |dwarf|
+    puts "#{i}. #{dwarf}"
+    i+=1;
+  end
 end
 
 def long_planeteer_calls# code an argument here
