@@ -2,6 +2,7 @@ def roll_call_dwarves(dwarves)# code an argument here
   i=1;
   dwarves.each do |dwarf|
     puts
+    i+=1;
   end
 end
 
