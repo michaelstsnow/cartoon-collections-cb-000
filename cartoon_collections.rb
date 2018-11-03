@@ -7,7 +7,7 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet(collection)
-  i=1;
+  final_collection=[];i=1;
   dwarves.each do |dwarf|
     puts "#{i}. #{dwarf}"
     i+=1;
