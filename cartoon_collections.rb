@@ -9,7 +9,7 @@ end
 def summon_captain_planet(collection)
   final_collection=[];
   dwarves.each do |item|
-    final_collection << item.slice(0,1).capitalize + item.slice(1..-1) + "!"
+    final_collection << item.slice(0,1).capitalize + item.slice(1..-1) + "!";
   end
   final_collection
 end
