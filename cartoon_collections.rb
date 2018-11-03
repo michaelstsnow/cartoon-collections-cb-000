@@ -23,6 +23,7 @@ def find_the_cheese(input)
   cheese_types = ["cheddar", "gouda", "camembert"]
   input.each do |item|
     if cheese_types.include? item
+      return item
     else
     end
   end
